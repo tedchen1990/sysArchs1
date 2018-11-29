@@ -1,5 +1,7 @@
-body{background-color:pink;}
+body{background-color:pink;border:green;}
 p{color:green;font-family:Arial;}
 h1{color:purple;font-family:Aharoni;}
 h3{color:bule;font-family:Garamond;}
 ul{list-style-type:lower-roman;color:yellow;font-family:"Iskoola"}
+hr{color:black;}
+
